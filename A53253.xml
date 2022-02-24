@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held at Reading, in the county of Berks, July 12th, 1681 by John Okes ...</title>
+            <author>Okes, John, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53253</idno>
+            <idno type="STC">Wing O194</idno>
+            <idno type="STC">ESTC R9257</idno>
+            <idno type="EEBO-CITATION">12996217</idno>
+            <idno type="OCLC">ocm 12996217</idno>
+            <idno type="VID">96405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held at Reading, in the county of Berks, July 12th, 1681 by John Okes ...</title>
+                  <author>Okes, John, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>[7], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joanna Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Mark XII, 17 --  Sermons.</term>
+               <term>Duty --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96405:1"/>
+            <pb facs="tcp:96405:1" rendition="simple:additions"/>
+            <p>A SERMON Preached At the Aſſizes HELD AT READING, In the COUNTY of BERKS, <hi>July</hi> 12th. 1681.</p>
+            <p>By <hi>JOHN OKES</hi> M. A. and Vicar of <hi>Shinfield</hi> in the County aforeſaid.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Joanna Brome</hi> at the Gun at the Weſt-end of St. <hi>Pauls.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96405:2"/>
+            <pb facs="tcp:96405:2"/>
+            <head>To the Right Honourable HENRY EARL of <hi>CLARENDON,</hi> Treaſurer to the Queens Majeſty, AND One of the Lords of his Majeſty's moſt Ho<g ref="char:EOLhyphen"/>nourable Privy-Council.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WHen I preached the enſuing Sermon, I deſigned nothing leſs in the world, than the Printing of it; nor am I yet ſo vain as to think it worthy of the Preſs. This is a critical and cenſorious age, wherein none indeed ſhould preſent their labours to the publick view, but ſuch onely, whoſe great abilities may prove ſerviceable to the Common good.</p>
+            <p>But as for this plain Sermon, it hath nothing at
+<pb facs="tcp:96405:3"/>all to recommend it, but your Lordſhips approba<g ref="char:EOLhyphen"/>tion at the preaching of it, together with thoſe worthy Gentlemen, the High Sheriff and Grand-Jury of the County, who afterwards requeſted me (as the world may ſee) to print it: I ſhall there<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore make no other apologie for appearing now in publick, but ſay, it was their requeſt that cau<g ref="char:EOLhyphen"/>ſed it. Theſe being all perſons of worth, and true Loyalty (which appears by their Addreſs lately made to his Majeſty) I could not but bend my inclinations (though with much reluctancy) to ſatisfie their deſires, and chuſe rather to expoſe my ſelf to the Cenſures of the World, than deny their unanimous and importunate requeſt.</p>
+            <p>I wiſh (though I much doubt it) that it may have the ſame effect, as was by ſome of them in<g ref="char:EOLhyphen"/>timated, who uſed this as an argument to me, That the printing of it may be for the publick good, whereas the preaching could reach onely a few that were then preſent. I was likewiſe informed by ſome others of them, that they heard it reported, this was but the Copy with ſome little variations of a printed Sermon. But ala<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! that did not at all move me, I lookt upon it onely as the imperti<g ref="char:EOLhyphen"/>nence of ſome peeviſh Zealots, whoſe uſual method it is to make ſomething to cavil at, rather than want exerciſe for their reviling faculties.</p>
+            <pb facs="tcp:96405:3"/>
+            <p>Having thus ſhewed the World the true and onely reaſon that moved me to print this ſhort di<g ref="char:EOLhyphen"/>ſcourſe; for ſuch indeed it is, and the reaſon of that was, becauſe I thought brevity moſt ſuitable to the occaſion for which it was deſigned: I am now onely to beg your Lordſhips pardon for pre<g ref="char:EOLhyphen"/>fixing ſo great a Name before a Tract of ſo little worth; it was onely the experience I have had of your Lordſhips goodneſs, that emboldened me to do it; and therefore I was no ſooner prevailed upon to print this Sermon, but I reſolved at the ſame inſtant to offer it (how mean ſoever) to your Lordſhip's Patronage: and I hope in ſome ſence I may juſtifie the doing of it, becauſe the ſole deſign of this Sermon (how meanly ſoever perfor<g ref="char:EOLhyphen"/>med) is to ſet forth our duty to God and the King, and therefore moſt proper to be dedicated to your Lordſhip, the moſt exact obſerver of both. If therefore your Lordſhip pleaſe to accept and favour it, I ſhall think my ſelf and it ſecure, notwithſtan<g ref="char:EOLhyphen"/>ding all the Cenſures of the World. I value them not, but ſhall reſt ſatisfied in this, that I have made ſome, though but a weak acknowledgement of that duty and ſervice I owe your Lordſhip, but more eſpecially that your Lordſhip will vouchſafe to accept ſuch weak performances.</p>
+            <p>And therefore that Almighty God would bleſs
+<pb facs="tcp:96405:4"/>your Lordſhip, and your moſt excellent good Lady (from whoſe joynt benevolence I have received ma<g ref="char:EOLhyphen"/>ny and great favours) with long life, and much pro<g ref="char:EOLhyphen"/>ſperity here, and with eternal bliſs and happineſs hereafter, is, and ever ſhall be the Prayer of</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt devoted humble Servan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>John Okes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96405:4"/>
+            <head>
+               <q>
+                  <bibl>MARK 12.17.</bibl>
+                  <p>And Jeſus anſwering, ſaid unto them; Render to <hi>Ceſar</hi> the things that are <hi>Ceſars,</hi> and to God the things that are God's.</p>
+               </q>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words are our Saviour's anſwer to a certain Queſtion propoſed to him by the Phariſees and <hi>Herodi<g ref="char:EOLhyphen"/>ans</hi> concerning the lawfulneſs of paying Tribute, as appears by the foregoing Verſes: being armed with their Fox<g ref="char:EOLhyphen"/>like ſubtilty, they came unto him, and ſaid, <hi>Maſter, we know that thou art true, and careſt for no man; for thou regardeſt not the perſon of men, but teacheſt the way of God in truth: Is it lawful to give tribute to</hi> Ceſar, <hi>or not? Shall we give, ort ſhall we not give?</hi> The deceit that lay hid under this Queſtion, may be probably conceived to be thus: (for they came on purpoſe to try if they could catch him in his words) That if Chriſt had anſwered, that it was not law<g ref="char:EOLhyphen"/>ful to pay it, they would have accuſed him, and delivered him into the hands of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Governour for a ſeditious man, according
+<pb n="2" facs="tcp:96405:5"/>to <hi>Luke</hi> 20.20. <hi>And they watched him, and ſent forth ſpies, which ſhould feign themſelves just men, that they might take hold of his words, that ſo they might deliver him unto the power and au<g ref="char:EOLhyphen"/>thority of the governour.</hi>
+            </p>
+            <p>And on the other ſide, if he had ſaid that it was lawful, they would have diſgraced him a<g ref="char:EOLhyphen"/>mong the people, as one that conſented to the <hi>Romans</hi> Tyranny and Impiety: <hi>but he knowing their hypocriſie ſaid unto them, Why tempt ye me? bring me a penny that I may ſee it:</hi> Or, as St. <hi>Matthew</hi> expreſſeth it, <hi>Shew me the tribute-mo<g ref="char:EOLhyphen"/>ny: and when they brought it unto him, he ſaith unto them, Whoſe is this image and ſuperſcription? and they ſaid unto him,</hi> Ceſar<hi>'s.</hi>
+            </p>
+            <p>
+               <hi>And Jeſus anſwering ſaid unto them, Render to</hi> Ceſar <hi>the things that are</hi> Ceſar<hi>'s, and to God the things that are God's.</hi>
+            </p>
+            <p>As if he had ſaid, Seeing that God hath ſub<g ref="char:EOLhyphen"/>jected you to the <hi>Romans,</hi> as appears by the Stamp of your currant Coyn, which is a ſigne of Supream power, bear it patiently, that doth not any way hinder the ſervice you owe to God as you are his people; and beſides it is an eaſie matter to ſatisfie both God and <hi>Ceſar</hi> in this payment, which conſiſts but in a little ſum of money.</p>
+            <pb n="3" facs="tcp:96405:5"/>
+            <p>From our Savour's thus ſtating the Queſtion, we may infer this Propoſition: That the duty and ſervice which we ought to perform directly and immediately to Almighty God, doth not ac<g ref="char:EOLhyphen"/>quit or exempt us from paying our due obe<g ref="char:EOLhyphen"/>dience to the civil Magiſtrate.</p>
+            <p>For he ſuppoſeth ſomething to be neceſſari<g ref="char:EOLhyphen"/>ly due to both, when he commands us to pay what belongs to each. In the proſecution of this, therefore, I ſhall inſiſt upon theſe two things plainly implied in the words of my Text.</p>
+            <list>
+               <item>1. Our duty as it relates to the Civil Magi<g ref="char:EOLhyphen"/>ſtrate: <hi>Render to</hi> Ceſar <hi>the things that are</hi> Ce<g ref="char:EOLhyphen"/>ſar's.</item>
+               <item>2. Our duty as it relates to God: <hi>Render to God the things that are Gods.</hi>
+               </item>
+            </list>
+            <p n="1">1. Of our duty as it relates to the Civil Magiſtrate: In the handling whereof, I ſhall endeavour to ſhew what we are to render as due from us to him. The firſt thing that I ſhall mention is Honour; and this muſt extend it ſelf to our thoughts, words, and actions.</p>
+            <p n="1">1. Firſt, we muſt honour him even in our thoughts and intentio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, we are not to harbour an ill opinion, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>tain a prejudicial thought: for though the ſecrets of the heart
+<pb n="4" facs="tcp:96405:6"/>are not accountable to man, becauſe not to be fathom'd by a finite underſtanding; yet there is a God that tries the very Heart and Reins: he (to whom the darkneſs is no darkneſs, but the night as clear as the Noon-day) can as eaſily diſcover the moſt obſcure thoughts as the moſt apparent actions, and as eaſily puniſh them as the moſt notorious and ſcandalous crimes.</p>
+            <p>
+               <hi>Curſe not therefore the King, no not in thy thought, and curſe not the rich in thy bed-chamber: for a bird of the air ſhall carry the voice, and that which hath wings ſhall tell the matter,</hi> Eccleſ. 10.20. A contemptuous thought of King, or lawful Authority, is a ſin of an high nature, and there<g ref="char:EOLhyphen"/>fore not to be indulged by any that think them<g ref="char:EOLhyphen"/>ſelves concerned either to be good Subjects or good Chriſtians. We muſt reſiſt the very firſt motions, and Check the moſt ſecret incli<g ref="char:EOLhyphen"/>nations to evil; otherwiſe it will ſteal upon us by degrees; and if once we get a habit of think<g ref="char:EOLhyphen"/>ing ill, who knows how ſoon it may break forth into bitter words? <hi>(for out of the abundance of the heart the mouth ſpeaketh;)</hi> and though our thoughts were our own while confin'd to our breaſts, yet being thus vented they ceaſe to be in our power, nor will it be eaſie to hinder the ill conſequence that attends them, or to heal
+<pb n="5" facs="tcp:96405:6"/>a Wound made by ſuch ſharp Arrows; and therefore firſt let us reſtrain our thoughts. And</p>
+            <p n="2">2. When we ſpeak of Kings and Princes, our words muſt be reverend and honourable: it is not meet for Chriſtians of any ſort to revile and cenſure one another, much leſs for Subjects to pretend to judge the actions of their Sove<g ref="char:EOLhyphen"/>raign. It would be much better certainly, if every one inſtead of talking of the duty of their Governours, would ſeriouſly think on their own.</p>
+            <p>St. <hi>Peter</hi> foretelling of a ſort of falſe Teach<g ref="char:EOLhyphen"/>ers, to the end they may be better avoided, de<g ref="char:EOLhyphen"/>ſcribes them by their manners thus, 2 <hi>Pet.</hi> 2.10. <hi>viz.</hi> Such as <hi>walk after the fleſh in the luſt of uncleaneſs, and deſpiſe government. Preſum<g ref="char:EOLhyphen"/>ptuous are they, ſelf-willed: they are not afraid to ſpeak evil of dignities.</hi>
+            </p>
+            <p>
+               <hi>Whereas angels, which are greater in power and might, bring not railing accuſations againſt them before the Lord,</hi> verſ. 11.</p>
+            <p>And St. <hi>Jude</hi> chargeth them with the ſame thing, <hi>verſ.</hi> 8. of his Epiſtle: <hi>Likewiſe alſo theſe filthy dreamers defile the fleſh, deſpiſe dominion, and ſpeak evil of dignities.</hi>
+            </p>
+            <p>And it were to be wiſhed, there were none among us, that endeavour by ſuch Stratagems
+<pb n="6" facs="tcp:96405:7"/>as theſe to amuſe the people, and ſo carry on their own private Plots, and ſecret deſigns, by ſpeaking evil of things they underſtand not.</p>
+            <p>Reverence to Magiſtrates is a duty frequent<g ref="char:EOLhyphen"/>ly inculcated in Holy Writ: <hi>Thou ſhalt not re<g ref="char:EOLhyphen"/>vile the Gods, nor curſe the ruler of thy people,</hi> Exod. 22.28. <hi>I counſel thee to keep the King's commandment, and that in regard of the oath of God,</hi> Eccleſ. 8.2. <hi>Be not haſty to go out of his ſight: ſtand not in an evil thing; for he doth whatſoever pleaſeth him,</hi> verſ. 3.</p>
+            <p>
+               <hi>Where the word of a King is, there is power: and who may ſay unto him, What doeſt thou?</hi> v. 4. If he do ought amiſs, he muſt anſwer it before the King of Kings; it is the Subjects duty in the mean while to follow the advice of the A<g ref="char:EOLhyphen"/>poſtle, whoſe words are theſe, 1 <hi>Tim.</hi> 2.1, 2. <hi>I exhort therefore, that firſt of all, ſupplications, prayers, interceſſions, and giving of thanks be made for all men:</hi>
+            </p>
+            <p>
+               <hi>For Kings, and for all that are in authority, that we may lead a quiet and peaceable life in all godlineſs and honeſty.</hi>
+            </p>
+            <p>And this ought to be done for them, though they were Infidels and Enemies to the Goſpel; yea, though they were perſecutors of them that make profeſſion of it: How much more then
+<pb n="7" facs="tcp:96405:7"/>ſhould we reſpect good Kings, when they not onely profeſs true Religion themſelves, but e<g ref="char:EOLhyphen"/>ſtabliſh, confirm, and ſettle the ſame by good and wholeſom Laws?</p>
+            <p n="3">3. As our thoughts and words muſt be ho<g ref="char:EOLhyphen"/>nourable, ſo in our actions we muſt ſhew a re<g ref="char:EOLhyphen"/>verence, by being humble and ſubmiſſive in our carriage and behaviour. There is a civil re<g ref="char:EOLhyphen"/>ſpect due from Inferiours to their Superiours: and though there be a ſort of godly men a<g ref="char:EOLhyphen"/>mong us (as they call themſelves) that re<g ref="char:EOLhyphen"/>fuſe this outward civility, and deny that which others more reaſonably pay; I ſhall not now ſpend time in anſwering their frivolous preten<g ref="char:EOLhyphen"/>ſions. St <hi>Paul</hi> bids us <hi>render fear to whom fear, and honour to whom honour is due.</hi>
+            </p>
+            <p>And St. <hi>Peter,</hi> in the very ſame verſe, bids us <hi>fear God, and honour the King:</hi> And that we ought to ſhew a reverence by ſome civil be<g ref="char:EOLhyphen"/>haviour, or outward ſubmiſſion, is plain from <hi>Levit.</hi> 19.32. <hi>Thou ſhalt riſe up before the hoary head, and honour the face of the old man, and fear thy God.</hi>
+            </p>
+            <p>And we may add to this the words of the fifth Commandment, <hi>Honour thy Father and thy Mother;</hi> the meaning and ſcope of which is, That the quality of mens perſons and places
+<pb n="8" facs="tcp:96405:8"/>in whatſoever eſtate, whether Natural, Civil, or Eccleſiaſtical, and with whatſoever relation to us, ought to be duly acknowledged and re<g ref="char:EOLhyphen"/>ſpected.</p>
+            <p>Now ſuch ſubmiſſion and duty cheriſhed in the hearts, and ſhewn in the words and beha<g ref="char:EOLhyphen"/>viour of Subjects, would render the difficulties of Government more ſupportable, and ale<g ref="char:EOLhyphen"/>viate thoſe cares and troubles which the moſt lawful Governours need continually under<g ref="char:EOLhyphen"/>go.</p>
+            <p n="2">2. The ſecond thing required as due from us to the civil Magiſtrate, is Obedience: This is a duty frequently inculcated in holy Scri<g ref="char:EOLhyphen"/>pture, <hi>Tit.</hi> 3.1. St. <hi>Paul</hi> directs <hi>Titus</hi> to <hi>put them in mind to be ſubject to principalities and powers, to obey Magiſtrates, to be ready to every good work.</hi> And <hi>Rom.</hi> 13.5. the ſame Apoſtle ſaith, <hi>Wherefore ye muſt needs be ſubject, not one<g ref="char:EOLhyphen"/>ly for wrath, but alſo for Conſcience-ſake.</hi> Into what dregs of times then are we faln! St. <hi>Paul</hi> urges obedience to Magiſtrates for Conſcience-ſake, and yet in our days that has been made an argument for the contrary; we have ſome a<g ref="char:EOLhyphen"/>mong us that pretend for Conſcience-ſake to diſobey them.</p>
+            <p>When Rebellion and Hypocriſie paſs for
+<pb n="9" facs="tcp:96405:8"/>Duty and Obedience, the beſt and moſt ſacred things are not ſecured from being abuſed: Re<g ref="char:EOLhyphen"/>ligion it ſelf is no longer accounted ſo by ſome men, than it ſerves their turns and intereſts; and therefore that hath been made uſe of to cloak the moſt abſurd and wicked deſigns. De<g ref="char:EOLhyphen"/>votion hath been, and is ſtill, a Plea for diſo<g ref="char:EOLhyphen"/>bedience: and the pretended tenderneſs, which others may more juſtly call the niceneſs of a diſaffected Conſcience, will not permit men to obey the King, for fear of diſobeying God. And yet there is nothing more plain in the whole Scripture than this, that <hi>every ſoul ought to be ſubject to the higher powers,</hi> Rom. 13.1. And that we may not miſtake the meaning of thoſe words, St. <hi>Peter</hi> tells us more diſtinctly what is meant by higher Powers, 1 <hi>Pet.</hi> 2.13, 14. <hi>Sub<g ref="char:EOLhyphen"/>mit your ſelves to every ordinance of man for the Lords ſake, whether it be to the King, as ſupream, or unto governours, as unto them that are ſent by him, for the puniſhment of evil-doers, and for the praiſe of them that do well.</hi>
+            </p>
+            <p>But alas! Fancy and Opinion ſometimes o<g ref="char:EOLhyphen"/>ver-rule Reaſon and Scripture both; or elſe we ſhould never have known ſuch horrid im<g ref="char:EOLhyphen"/>pieties committed among our ſelves, as to ſee a King dethron'd, and murther'd by his own
+<pb n="10" facs="tcp:96405:9"/>Subjects; and the Houſe of God, which our Saviour denominated a Houſe of Prayer, to be<g ref="char:EOLhyphen"/>come a Den of Thieves; which was too truly ſo indeed, when our Churches were profan'd, robbed, and plundred of their decent Ornaments, by wicked and cruel hands; and pure Religi<g ref="char:EOLhyphen"/>on which is there profeſſed, forced to retire, and hide its head in a corner; and our Clergie (the lawful Miniſters of Chriſt) ſequeſtred from their Livelihood, and employment too: all which was violently carried on under the ſpecious names of Reformation, and Liberty of Conſcience; and the actors all this while, the greateſt pre<g ref="char:EOLhyphen"/>tenders to Religion and Holineſs, carrying a fair outſide, whatever was within. But even thus did the Phariſees of old, who could de<g ref="char:EOLhyphen"/>vour Widows houſes under pretence of their long Prayers.</p>
+            <p>How far ſuch practices as theſe are from that duty we ſtand obliged to by the Laws both of God and man, muſt needs be plain and clear to every one that is not wilfully blind: They are the greateſt reproach to the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and even a ſcandal to Chriſtianitie itſelf; and therefore to be exploded and for ever abo<g ref="char:EOLhyphen"/>minated by all that put on the name of ei<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="11" facs="tcp:96405:9"/>
+            <p>The obedience required of us, is a volunta<g ref="char:EOLhyphen"/>rie and hearty doing what our lawful Superi<g ref="char:EOLhyphen"/>our commands, or patient ſuffering what he inflicts, though it ſhould be either without juſt cauſe, or ſomewhat more exceſſively than the cauſe requires: but in all lawful commands, we ſtand obliged to do what he requires by Law to be done; and a Paſſive obedience in this caſe is not a ſufficient diſcharge of our duty, (much leſs can an active diſobedience find any Plea.) For ſuch as refuſe to do what the Law com<g ref="char:EOLhyphen"/>mands, though they may ſeem content to ſuffer the puniſhment it inflicts, are no better obſer<g ref="char:EOLhyphen"/>vers of the Law, than a Thief, who is content to be hanged after he hath robb'd his Neigh<g ref="char:EOLhyphen"/>bours. If either of them ſuffer the Law, it is for their offence in tranſgreſſing it; and what glory is it, if when men be buffeted for their faults they take it patiently?</p>
+            <p>This makes them neither the better men, nor the better Chriſtians; for beſides that it is to be ſuppoſed that they would not ſuffer any penalty if they could find a way to eſcape it: This doth not anſwer the end and deſign of the Law, which requires our obedience in an active performance of the things commanded; and the puniſhment is onely added in caſe of
+<pb n="12" facs="tcp:96405:10"/>contempt and diſobedience. Such therefore a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> refuſe to obey the Law, though they ſuffer the penalty it inflicts, cannot reaſonably be thought good obſervers thereof, becauſe it is not the puniſhment that the Law-giver intends but the doing that which he requires; and ſuch as refuſe to do this, or act contrary to it, not onely offend the Magiſtrate under whom they live, but even God himſelf, who commands us to reverence and obey him. This therefore can be no refuge for thoſe pretending Zealots, who endeavour to make the world believe they are peaceable, good Subjects, if they quietly ſuf<g ref="char:EOLhyphen"/>fer the penalty of the Laws: Alas! this is no diſcharge of their duty; the Magiſtrate onely ſuppreſſes their rebellious practices, for which they make Religion a Cloak, and puniſhes their diſobedience, which they endeavour to palliate with Devotion; but the duty required of them, remains ſtill unperformed, and ſin lies at their door; who invert St. <hi>Paul's</hi> rule, and think it ſufficient to obey merely for wrath, and not for Conſcience-ſake. The Authours and Abettors therefore of ſuch abſurd Do<g ref="char:EOLhyphen"/>ctrines, would do well to conſider, that when they fall under due correction, this doth not acquit or free them from their firſt offence in
+<pb n="13" facs="tcp:96405:10"/>breaking the Law, but is deſigned onely to keep them in better order, and make them better Subjects for the time to come.</p>
+            <p>Nor will it at all juſtifie our diſobedience to lawful Authority, what ſome men urge, <hi>viz.</hi> That the things required are not comman<g ref="char:EOLhyphen"/>ded in the Word of God; it is ſufficient if they are not therein forbid, nor contrary to it.</p>
+            <p>That the powers ordained of God, and by him ſet over us, have authority to order and determine ſome things not directly and expreſly commanded in the Word of God, is plain and evi<g ref="char:EOLhyphen"/>dent even from thoſe many Texts of holy Scri<g ref="char:EOLhyphen"/>pture which required and enjoyn obedience to the Magiſtrate. As for thoſe things poſitively ſet down in the Word of God, there we have directions for the performance of them: but then, when we are commanded moreover, e<g ref="char:EOLhyphen"/>ven by the ſame Word of God, to obey the Magiſtrate, this muſt neceſſarily ſuppoſe him inveſted with a power to command us ſome things not before ſpecified, but left to his de<g ref="char:EOLhyphen"/>termination; and ſo far as his commands are a<g ref="char:EOLhyphen"/>greeable to the Word of God, we are bound to obey them.</p>
+            <p>If the Magiſtrate command us any thing
+<pb n="14" facs="tcp:96405:11"/>that is manifeſtly impious, and contrary to the known will of God, we are then with reve<g ref="char:EOLhyphen"/>rence to refuſe, and alledge our duty to God for our Warrant; but this refuſal muſt be with ſubmiſſion and reverence, ſtill reſerving our lawful ſubjection and Loyalty; this muſt be with a paſſive obedience, not reſiſting, but ſub<g ref="char:EOLhyphen"/>mitting to the penalties of the Law: and in this caſe we muſt betake our ſelves to the wea<g ref="char:EOLhyphen"/>pons of the Primitive Chriſtians, <hi>viz.</hi> Prayers and Tears. But thanks be to God, we have no ground for any ſuch complaints; we have no Commands impoſed upon us, but ſuch as are eaſie to be born, and very agreeable to a good Chriſtian temper.</p>
+            <p>May it therefore pleaſe Almighty God long to continue ſuch a Prince among us, whoſe en<g ref="char:EOLhyphen"/>deavours may always be to protect and ſup<g ref="char:EOLhyphen"/>port ſuch as are committed to him, and to go<g ref="char:EOLhyphen"/>vern them prudently, and after a holy man<g ref="char:EOLhyphen"/>ner!</p>
+            <p>And may it enter into every Subjects heart to be faithful, ſubmiſſive, and obedient to his Soveraign; not in outward appearance onely, but in truth and ſincerity. It is not enough for us to own his Supream power and autho<g ref="char:EOLhyphen"/>rity, unleſs we aſſert them in our actions, and
+<pb n="15" facs="tcp:96405:11"/>demonſtrate the reality of our intentions by all the outward acts of fidelity and love. Nor muſt we be wanting, if need ſo require, to aſ<g ref="char:EOLhyphen"/>ſiſt him with our Eſtates: We are bid by St. <hi>Paul</hi> to <hi>render Tribute to whom Tribute,</hi> as well as <hi>Honour to whom Honour is due.</hi> And that Tri<g ref="char:EOLhyphen"/>bute was anciently paid, is evident by our Sa<g ref="char:EOLhyphen"/>viour's determination in my Text of the Que<g ref="char:EOLhyphen"/>ſtion propoſed to him; and elſewhere he con<g ref="char:EOLhyphen"/>firmed the ſame (though at the expence of a Miracle) even by his own practice, <hi>Matth.</hi> 17.27. <hi>Go thou to the Sea,</hi> ſpeaking to St. <hi>Peter, and caſt an hook, and take up the fiſh that firſt cometh up: and when thou haſt opened his mouth, thou ſhalt find a piece of money, that take, and give unto them,</hi> i. e. the receivers of the Tri<g ref="char:EOLhyphen"/>bute-money, <hi>for me and thee.</hi>
+            </p>
+            <p>Would every one in their proper places thus perform their reſpective duties, we may by the bleſſing of God continue long to be a happy people.</p>
+            <p>There would be no need of affixing penal<g ref="char:EOLhyphen"/>ties of the Laws, if men would be perſwaded to do their duties; till then (which is daily to be wiſhed) there is need of a Sword of Juſtice to reſtrain the extravagant errours of froward men, at leaſt to correct their folly
+<pb n="16" facs="tcp:96405:12"/>and obſtinacy, if they ſtill perſiſt in them: for the Magiſtrate beareth not the Sword in vain; he is the Miniſter of God to execute wrath upon him that doth evil; and to him in a great meaſure we owe the ſecurity of our Lives and Eſtates: for though the Law of God forbids the commiſſion of murther, rob<g ref="char:EOLhyphen"/>bery, and ſuch-like crimes, yet it is to be fea<g ref="char:EOLhyphen"/>red, through Atheiſm and Irreligion, which too much abound in theſe our days, thoſe Laws would ſoon be forgotten, if the Law of the Land did not provide a puniſhment anſwera<g ref="char:EOLhyphen"/>ble to thoſe and ſuch-like crimes; it were well if one or the other, or both, would keep men in awe, and bring us to a ſenſe of our duty, ſo as to make us voluntarily and freely <hi>Render to</hi> Ceſar <hi>the things that are</hi> Ceſar<hi>'s, and unto God the things that are God's;</hi> which brings me to ſpeak of the ſecond thing I men<g ref="char:EOLhyphen"/>tioned contained in the words of my Text, <hi>Viz.</hi>
+            </p>
+            <p n="2">2. Our Duty as it relates to God.</p>
+            <p>Him we muſt ſerve with reverence and a holy fear, and frame the whole of our lives and actions according to the rules preſcribed in his Word; there we may be directed how to walk, and there we have the general rules whereby
+<pb n="17" facs="tcp:96405:12"/>things are to be ordered in the Church, accor<g ref="char:EOLhyphen"/>ding to which our Governours are to make particular Laws, and we to obey them; to prevent that diſorder and confuſion, which would otherwiſe unavoidably happen, if eve<g ref="char:EOLhyphen"/>ry one was left to his own liberty of pre<g ref="char:EOLhyphen"/>ſcribing his own way of Worſhip (I mean in publick) according as his fancy or humour leads him.</p>
+            <p>Since God hath not appointed any cer<g ref="char:EOLhyphen"/>tain Model of Worſhip whereby he will be ſerved, and no otherwiſe, it is very rational<g ref="char:EOLhyphen"/>ly to be ſuppoſed that he hath left it to the prudence of our Governours to conſider and determine how Chriſtian Societies, when they meet together, may moſt ſolemnly and decently perform that duty which God requires of them.</p>
+            <p>And where is or can this be better practi<g ref="char:EOLhyphen"/>ſed, than it is now in the Church of <hi>England?</hi> the beſt model'd Church this day in the Chri<g ref="char:EOLhyphen"/>ſtian World. Her Doctrines are all heaven<g ref="char:EOLhyphen"/>ly and divine; and that Worſhip which ſhe preſcribes is pure and undefiled, attended one<g ref="char:EOLhyphen"/>ly with ſome innocent, harmleſs, Ceremonies,
+<pb n="18" facs="tcp:96405:13"/>in themſelves indifferent, but appointed to be uſed for Decency, Order, and Edificati<g ref="char:EOLhyphen"/>on. I ſhall not now ſpend time to prove the lawfulneſs, or urge the uſefulneſs of a ſet Form of Prayer to be uſed in the publick Aſſembly: that hath been ſufficiently cleared by the Pens of our learned Writers.</p>
+            <p>Now it hath pleaſed God to make the Ma<g ref="char:EOLhyphen"/>giſtrate his Vicegerent on Earth, to take care of, and defend his Church: (and then indeed may Kings and Queens be fitly ſtiled nurſing Fathers, and nurſing Mothers, when they che<g ref="char:EOLhyphen"/>riſh and propagate that Faith which was once delivered to the Saints.)</p>
+            <p>And becauſe we are beſet with many both publick and private Enemies, who would glad<g ref="char:EOLhyphen"/>ly deſtroy our Church, and lay her Name and Honour in the duſt; ſhe is therefore fenced about with good and wholeſom Laws, ſuch as provide a puniſhment for her diſobedient Chil<g ref="char:EOLhyphen"/>dren, and a ſcourge for ſuch as will not be re<g ref="char:EOLhyphen"/>claimed: theſe (if they were duely execu<g ref="char:EOLhyphen"/>ted) would preſerve that reverence and e<g ref="char:EOLhyphen"/>ſteem that is due to her; theſe would reduce many of thoſe already departed from her, and
+<pb n="19" facs="tcp:96405:13"/>preſerve thoſe that are yet in her Commu<g ref="char:EOLhyphen"/>nion from being infected with the poiſon of Schiſm and Sedition, as too too many have been already.</p>
+            <p>But I could wiſh rather that every one would be perſwaded to reform his own er<g ref="char:EOLhyphen"/>rours, and endeavour, as much as in him lies, to keep the unity of the Spirit in the bond of peace. Would men lay aſide their pre<g ref="char:EOLhyphen"/>judice, and embrace truth for the truth's ſake, there would be then ſome hopes of a gene<g ref="char:EOLhyphen"/>ral reconciliation. But when they divide themſelves into Schiſms and Factions, there is no hopes of effecting that which is of all good men to be wiſhed, namely, that we might be all of one minde, as there is one Lord, one Faith, and one Baptiſm.</p>
+            <p>If we could, or rather indeed if we would walk together to the houſe of God as friends, this would conduce much to the honour of God, the credit and advantage of our Re<g ref="char:EOLhyphen"/>ligion, and the ſetling of a laſting Peace in this our troubled Nation; this would be the way to diſcourage all the Plots and Conſpi<g ref="char:EOLhyphen"/>racies of the <hi>Romiſh</hi> Party, and would be
+<pb n="20" facs="tcp:96405:14"/>the beſt Bulwark againſt Popery it ſelf, ſo much dreaded among us: it is their buſineſs and endeavour to keep us at odds, the bet<g ref="char:EOLhyphen"/>ter to carry on their own deſignes; and therefore they have their Emiſſaries up and down to preach Schiſm and Sedition into peo<g ref="char:EOLhyphen"/>ples ears.</p>
+            <p>By ſuch arts as theſe, they inſinuate them<g ref="char:EOLhyphen"/>ſelves among the poor deluded people of our ſeparate Congregations; and joyning with them in their clamours againſt the Church of <hi>England,</hi> crying it down for ſu<g ref="char:EOLhyphen"/>perſtitious, and Popiſhly affected, they paſs there for gifted Brethren; and real Popery is carried on by ſuch diſguiſes: Whereas, were we united among our ſelves, they would ſoon find it in vain to make any ſuch attempts upon us.</p>
+            <p>But alas! while the breach is kept open by thoſe ſad Diſtractious and Diviſions that are among our ſelves, how eaſily may the Pope enter in? Schiſmaticks, whatever they pretend, do but carry on the Pop<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Cauſe; for the more ſtrength and number any Fa<g ref="char:EOLhyphen"/>ction draws from the Church, ſo much is
+<pb n="21" facs="tcp:96405:14"/>added to her Enemy, who hath, perhaps, no other hopes of deſtroying, but by divi<g ref="char:EOLhyphen"/>ding us.</p>
+            <p>If therefore thoſe (good) men that cauſe ſuch Schiſms and Diviſions among us, had that love for the Proteſtant Intereſt as they have for the bare Name, they would be more zealous for the preſervation of it; and think it their duty, at leaſt in this juncture of affairs, to comply with the Church, and joyn in her Communion for ſecuring our Religion, rather than by per<g ref="char:EOLhyphen"/>verſeneſs and obſtinacy endanger its total ruine. If they had that love for Peace which they pretend, they would ſeek more after it, and priſe it at a higher rate, than to break the unity of the Church upon ſuch ſlender accounts as now they do.</p>
+            <p>Oh that they would yet in time bethink themſelves! that we may at laſt with one minde and one accord praiſe and glorifie that God who is the God of Peace and Or<g ref="char:EOLhyphen"/>der. This if we would do heartily and ſin<g ref="char:EOLhyphen"/>cerely, he would certainly reward us for it: for they that love and ſeek peace, ſhall enjoy everlaſting peace hereafter.</p>
+            <pb n="22" facs="tcp:96405:15"/>
+            <p>Now to our God, who is the God of Peace; to his onely Son, who is the Prince of Peace; and to the Holy Ghoſt, who is the Spirit of Peace, be aſcribed, as is moſt due, all honour, glory, praiſe, power, and dominion, henceforth and for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96405:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
